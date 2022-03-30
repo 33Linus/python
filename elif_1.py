@@ -14,7 +14,7 @@ Tea/Coffee 20 for 1 cup
 otherwise ....this item is not available in our resturant
 '''
 
-print('welcome to the resturant ')
+
 print('-------------------------')
 print('Dish available are : Iddli,  Dosa, Sandwich, Juice, Tea/Coffee')
 print('--------------------------------------------------------------')
